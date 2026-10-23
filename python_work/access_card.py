@@ -1,0 +1,10 @@
+# Tala Fadi * Access Card * this program desigend for printing
+print("*****************************")
+print("*   SECURE ACCESS CARD      *")
+print("*****************************")
+print("Name:","Tala")
+print("Role: Student")
+print("Program: cybersecurity")
+print("University: PPU")
+print()
+print("*****************************")
