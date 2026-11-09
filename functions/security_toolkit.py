@@ -31,7 +31,7 @@ def check_port(port):
         return "user"
     return "dynamic"
 
-def port_range(port):
+def port_range():
     """Ask for a port and show its range in a box."""
     port = int(input("Port: "))
     result = check_port(port)
