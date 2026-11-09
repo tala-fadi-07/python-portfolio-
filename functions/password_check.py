@@ -1,4 +1,4 @@
-# File: password_check.py
+# password_check.py
 # This file checks if a password is long enough and different from username.
 def long_enough(password, minimum=8):
     return len(password) >= minimum
