@@ -1,4 +1,4 @@
-# File: lock_tools.py
+# lock_tools.py
 # This file checks if an account is locked after too many failed tries.
 def is_locked(failed, max_tries=3):
     """Return True if account is locked."""
